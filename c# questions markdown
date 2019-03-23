@@ -1,0 +1,148 @@
+Q: What is a namespace?
+It allows you to name something so it doesn't come in conflict with another class or function
+
+Q: What are value types?
+Its a variable that has a value of that type.
+
+Q: What are reference types?
+
+A variable that contains a reference to that type.
+
+Q: What is an automatic property and how is it useful?
+
+They make it more convenient when no more logic is needed in the property accessors
+
+Q: What is the purpose of using statement?
+
+It simplifies the code to create and clean of the object being used
+
+Q: What are dynamic type variables?
+
+a variable type that takes place at runtime.
+
+Q: What is the purpose of the is operator?
+
+it checks if the run-time type is compatible with the given
+
+Q: What are generics and how is using them useful?
+
+they are a class that let you define classes with the placeholder
+
+Q: What is the scope of a public member of a class?
+
+global
+
+Q: Can you create a function that can accept a varying number of arguments?
+
+yes
+
+Q: How do you sort an array?
+
+using the .sort() method sorts it in ascending order
+
+Q: What is a nullable type and what purpose does it serve?
+
+a type that allows you to assign NULL to them
+
+Q: What is an enumeration?
+
+a value data type of a set of named constants
+
+Q: What is inheritance?
+
+Where a sub-class inherits the contents of the parent class
+
+Q: Is multiple inheritance supported?
+
+yes
+
+Q: What is the purpose of as operator
+
+its a converter of compatible types
+
+Q: What is an object?
+
+an instance of a class
+
+Q: What is the difference between a struct and a class?
+
+a class can create subclasses and inherit
+
+Q: What is the difference between continue and break statements?
+
+continue will move forward with the code and break will break out of the loops its in
+
+Q: What is this and how is it used?
+
+its a keyword and its a modifier of the first parameter
+
+Q: What is try and catch and when are they used?
+
+they are functions used to catch exceptions
+
+Q: How is exception handling done?
+
+using try and catch
+
+Q: What is finally and what is its purpose?
+
+at the end of a bit of code, its the final part to be executed after the exceptions
+
+Q: List the differences between Array and ArrayList.
+
+Array - holds values of one type while the other does multiple
+ArrayList - doesn't need its size declared, it grows as its added
+An array cant use generics
+
+Q: What is an object?
+
+an instance of a class
+
+Q: Define constructor.
+
+its a method of a class that lets us build the class
+
+Q: When can var be used to declare a variable and how is the type for the variable determined?
+
+the var keyword declares the variable as an implicit type at compile time
+
+Q: What is an abstract class?
+
+classes that are not fully implemented so that subclasses override its methods
+
+Q: What is an interface?
+
+An interface only shows the declaration of everything, not the implementation
+
+Q: What is a method?
+
+declared in a class or a struct and has statements for either anyone to call or just that class
+
+Q: What is a property?
+
+a way for classes to get and set values publicly or privately
+
+Q: What is an access specifier?
+
+a specifier that determines how much access these methods are given in a class or struct
+
+Q: What access specifiers are supported and what do they mean?
+
+public - can get access anywhere
+
+private -  cant go outside the class
+
+protected - limited in the class and subclasses
+
+internal - access within the program declared
+
+protected internal - same as both protected and internal
+
+
+Q: What is a collection?
+
+a class made for storage and retrieval
+
+Q: What is a Hash Table?
+
+a collection table used when using key and value pairs
